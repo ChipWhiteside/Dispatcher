@@ -1,0 +1,2 @@
+/Users/chipwhiteside/Trucks/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/chipwhiteside/Trucks/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache

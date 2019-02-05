@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{8F1E6DF7-66BF-EFBC-D3B1-511150FBF957}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DeliveryLocation.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LoginManager.cs" Line="50" Column="47" />
+      <File FileName="Assets/Scripts/SettingsManager.cs" Line="29" Column="9" />
+      <File FileName="Assets/Scripts/DudeMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameMan.cs" Line="214" Column="64" />
+      <File FileName="Assets/Scripts/Truck.cs" Line="37" Column="36" />
+      <File FileName="Assets/Scripts/Job.cs" Line="34" Column="32" />
+      <File FileName="Assets/Scripts/Intersection.cs" Line="28" Column="50" />
+      <File FileName="Assets/Scripts/Shop.cs" Line="8" Column="26" />
+      <File FileName="Assets/Scripts/DBManager.cs" Line="35" Column="31" />
+      <File FileName="Assets/Scripts/ShopManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DeliveryLocation.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
